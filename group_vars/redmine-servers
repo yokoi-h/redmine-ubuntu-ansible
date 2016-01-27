@@ -3,6 +3,9 @@
 db_passwd_redmine: postgres
 # ----------------------------------------------------------------------
 
+# database server
+db_host: localhost
+
 # Redmineのチェックアウト元URL
 redmine_svn_url: http://svn.redmine.org/redmine/branches/3.2-stable
 
